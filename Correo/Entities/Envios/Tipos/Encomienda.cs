@@ -9,3 +9,4 @@ public class Encomienda
         _tipo = tipo;
     }
 }
+
