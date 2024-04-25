@@ -7,8 +7,4 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
-    <ItemGroup>
-      <PackageReference Include="AWSSDK.Rekognition" Version="3.7.302.6" />
-    </ItemGroup>
-
 </Project>
